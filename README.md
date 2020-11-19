@@ -1,1 +1,3 @@
 # streamyCourseProject
+
+![](screenshots/startingPage.png);
