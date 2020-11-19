@@ -1,19 +1,14 @@
 {
   "streams": [
     {
-      "title": "My Stream",
-      "description": "This is a great stream.",
+      "title": "Stream",
+      "description": "Stream Test",
       "id": 1
     },
     {
-      "title": "Other Stream",
-      "description": "Here's some stream",
+      "title": "DekstopStream",
+      "description": "Tutorial",
       "id": 2
-    },
-    {
-      "title": "Me Streaming Component Reuse!",
-      "description": "This stream is about refactoring!!!",
-      "id": 4
     }
   ]
 }
